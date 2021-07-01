@@ -1,0 +1,51 @@
+.flex-parent1 {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+  /* justify-content: space-evenly; */
+}
+.enfant1 {
+  background-color: blue;
+  /* width: 20vw; */
+  height: 33vw;
+  border: 1px solid black;
+  /* flex-basis: 33%; */
+}
+
+.enfant2 {
+  background-color: whitesmoke;
+  /* width: 20vw; */
+  height: 33vw;
+  border: 1px solid black;
+  /* flex-basis: 33%; */
+}
+.enfant3 {
+  background-color: red;
+  /* width: 20vw; */
+  height: 33vw;
+  border: 1px solid black;
+  /* flex-basis: 33%; */
+}
+.enfant4 {
+  background-color: red;
+  /* width: 20vw; */
+  height: 33vw;
+  border: 1px solid black;
+  /* flex-basis: 33%; */
+}
+.enfant5 {
+  background-color: red;
+  /* width: 20vw; */
+  height: 33vw;
+  border: 1px solid black;
+  /* flex-basis: 33%; */
+}
+.enfant6 {
+  background-color: red;
+  /* width: 20vw; */
+  height: 33vw;
+  border: 1px solid black;
+  /* flex-basis: 33%; */
+}
